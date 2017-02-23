@@ -1,0 +1,2 @@
+Crea la base de datos con este nombre: gestiondecursos
+así trabajamos los dos en local con el mismo nombre ;)
